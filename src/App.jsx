@@ -14,8 +14,8 @@ function App() {
     <div className='container ml-auto mr-auto max-w-md'>
       <p>I figured it would be easier to list all the gifts I want for any occasion—not just birthdays, parties, or weddings. This just saves everyone time on planning surprise gifts that I may or may not like. If you get me anything from this list, I will absolutely love both you and the item. Each item’s size is  based on how much I really want it. Much love ❤️</p>
     </div>
-    <div className='mt-3 gifts flex flex-col flex-wrap gap-y-5 mr-auto'>
-      <div className='bg-contain bg-no-repeat p-8 bg-center  bg-[url("https://www.apple.com/v/airpods/v/images/overview/airpods_max__f265q4g4ddym_medium.png")]'><p className='text-8xl font-semibold'>Airpods Max</p><img className='' /></div>
+    <div className='mt-3 gifts flex flex-col flex-wrap gap-y-5 mr-auto ml-auto'>
+      <div className='bg-contain bg-no-repeat p- bg-center  bg-[url("https://www.apple.com/v/airpods/v/images/overview/airpods_max__f265q4g4ddym_medium.png")]'><p className='text-8xl font-semibold'>Airpods Max</p><img className='' /></div>
       <p className='text-4xl '>10 different items from the carrefour bakery</p>
      <div className='relative ml-auto mr-auto w-56 rounded-xl '>
        <video autoPlay loop muted className='absolute inset-0 w-full rounded-3xl h-full object-cover'>
